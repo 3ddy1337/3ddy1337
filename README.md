@@ -1,5 +1,8 @@
-### Hi there 👋
-🌱 I’m currently learning ...
+### Hi 👋
+
+My Name is Etienne and in 2024 I finally followed my affinity and started a bootcamp at [coding-bootcamps.eu](https://www.coding-bootcamps.eu) - so that I can soon find my first job as a developer.
+
+
 <!--
 **3ddy1337/3ddy1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
