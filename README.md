@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My Name is Etienne and in 2024 I finally followed my affinity and started a bootcamp at [coding-bootcamps.eu](https://www.coding-bootcamps.eu).
+My Name is Etienne and in 2024 I finally followed my affinity and started a Bootcamp at [coding-bootcamps.eu](https://www.coding-bootcamps.eu) for Web-Development specializing in frontend.
 <!--
 **3ddy1337/3ddy1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
