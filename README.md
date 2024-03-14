@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My Name is Etienne and in February 2024 I finally followed my affinity and started a Bootcamp at [coding-bootcamps.eu](https://www.coding-bootcamps.eu) for Web-Development specializing in frontend.
+My Name is Etienne and in February 2024 I finally followed my affinity and started a Bootcamp at [coding-bootcamps.eu](https://www.coding-bootcamps.eu) for Web-Development specializing in Frontend.
 
 ### Visit my Projects:
 [My CV](https://3ddy1337.github.io/cv-etienne/)
