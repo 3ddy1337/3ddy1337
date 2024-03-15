@@ -7,6 +7,8 @@ My Name is Etienne and in February 2024 I finally followed my affinity and start
 
 [Photo-Cards](https://3ddy1337.github.io/photo-card/)
 
+[Student-Hub](https://3ddy1337.github.io/Student-Hub/)
+
 
 <!--
 **3ddy1337/3ddy1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
