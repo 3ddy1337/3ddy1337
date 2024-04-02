@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=3ddy1337&show_icons=true&theme=gruvbox)
 #
-⚡⚡ Tech enthusiast ⚡⚡
+⚡ Tech enthusiast ⚡
 
 🌱 I’m currently learning HTML / CSS / JavaScript @[coding-bootcamps.eu](https://www.coding-bootcamps.eu) 🌱
 
