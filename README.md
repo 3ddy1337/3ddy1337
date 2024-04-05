@@ -7,11 +7,13 @@
 #
 Visit my projects: <br/>
 
-[My CV](https://3ddy1337.github.io/cv-etienne/)
+[Counter](https://3ddy1337.github.io/counter/)
 
 [Photo-Cards](https://3ddy1337.github.io/photo-card/)
 
 [Student-Hub](https://3ddy1337.github.io/Student-Hub/)
+
+[My CV](https://3ddy1337.github.io/cv-etienne/)
 
 #
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3ddy1337&theme=gruvbox&border=false&include_all_commits=true&count_private=true&layout=compact)
