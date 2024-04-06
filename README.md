@@ -7,6 +7,8 @@
 #
 Visit my projects: <br/>
 
+[Color Mixer](https://3ddy1337.github.io/color-mixer/)
+
 [Counter](https://3ddy1337.github.io/counter/)
 
 [Photo-Cards](https://3ddy1337.github.io/photo-card/)
