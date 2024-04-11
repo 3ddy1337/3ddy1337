@@ -7,6 +7,8 @@
 #
 Visit my projects: <br/>
 
+[Todo-App](https://3ddy1337.github.io/todo-app/)
+
 [Color Mixer](https://3ddy1337.github.io/color-mixer/)
 
 [Counter](https://3ddy1337.github.io/counter/)
