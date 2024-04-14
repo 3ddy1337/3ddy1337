@@ -7,6 +7,8 @@
 #
 Visit my projects: <br/>
 
+[Quote-App](https://3ddy1337.github.io/quote-app/)
+
 [Todo-App](https://3ddy1337.github.io/todo-app/)
 
 [Color Mixer](https://3ddy1337.github.io/color-mixer/)
